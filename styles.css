@@ -9,6 +9,10 @@ body {
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
+p {
+    max-width: 760px;
+}
+
 a {
     color: #0FE0B1;
     text-decoration: none;

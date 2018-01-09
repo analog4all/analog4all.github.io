@@ -8,3 +8,13 @@ body {
     color: #FFF;
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
+
+a {
+    color: #0FE0B1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFF;
+    text-decoration: underline;
+}
